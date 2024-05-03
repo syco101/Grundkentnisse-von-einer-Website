@@ -1,6 +1,6 @@
 # Lernperiode-5
 
-23.4 bis 25.6.2024
+3.5 bis 25.6.2024
 
 ## Grob-Planung
 
@@ -12,15 +12,23 @@ Ich möchte eigentlich eine Website erstellen, aber auch weiterhin das Programmi
 
 
 
-## 23.4.2024
+## 3.5.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Hier ist die korrigierte Version deines Textes:
 
-## 30.4.2024
+## Zussamenfassung
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+Heute habe ich mich damit beschäftigt, welche Arbeitspakete ich schreiben möchte, hauptsächlich aber mit meiner PowerPoint-Präsentation. Am Dienstag muss ich zusammen mit Sebastian einen Vortrag über Uran halten. Heute haben wir mit der PPP begonnen und sind ungefähr bis zur Hälfte gekommen, auch wenn wir Schwierigkeiten mit dem WLAN hatten. (53)
+
+
+
+
+## 17.5.2024
+
+- [ ] Visual Studio Code herunterladen und die Erweiterung auch.
+- [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
+- [ ] Meine Website beginnen mit einer guten Startseite mit Text und Bilder
+- [ ] In Mathematik Textaufgaben lösen und korrigieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
