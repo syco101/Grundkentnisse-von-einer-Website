@@ -14,7 +14,6 @@ Ich möchte eigentlich eine Website erstellen, aber auch weiterhin das Programmi
 
 ## 3.5.2024
 
-Hier ist die korrigierte Version deines Textes:
 
 ## Zussamenfassung
 
@@ -25,10 +24,18 @@ Heute habe ich mich damit beschäftigt, welche Arbeitspakete ich schreiben möch
 
 ## 17.5.2024
 
-- [ ] Visual Studio Code herunterladen und die Erweiterung auch.
+- [x] Visual Studio Code herunterladen und die Erweiterung auch.
 - [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
-- [ ] Meine Website beginnen mit einer guten Startseite mit Text und Bilder
-- [ ] In Mathematik Textaufgaben lösen und korrigieren
+- [x] Meine Website beginnen mit einer guten Startseite mit Text und Bilder
+- [x] Ein HTML Video schauen um zu wissen wie es funktioniert.
 
-✍️ Heute habe ich... (50-100 Wörter)
 
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
+| --------------- | ------------------- | --------------- | ---------------- | -------- |
+|   1 | `Vs herunterladen` | `öffnen`| `sehe meine Website` | x | 
+|   2 | `In vs text schreiben` | `text geschrieben` | `Es auf der Website sehen` | x |
+|   3 |  `Video drauf klicken` | `pause dücken`  | `Video pausiert` | x |
+
+
+
+Heute habe ich mir ein YouTube-Video von Bro Code angesehen. Es ging um das Thema HTML, und ich habe es mir angeschaut, um einen Überblick zu bekommen, wo was ist und wie es funktioniert. Ein paar Befehle konnte ich dabei auch lernen. Ich habe auch Visual Studio Code heruntergeladen mit der Erweiterung Live Preview. Ich habe mit meiner Website angefangen und möchte eine Website erstellen, auf der man den Bitcoin-Live-Chart sehen kann. Ich habe jedoch festgestellt, dass ich dafür JavaScript benötige. Beim nächsten Mal werde ich versuchen, das umzusetzen. (89)
