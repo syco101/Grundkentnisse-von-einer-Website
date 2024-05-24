@@ -38,4 +38,42 @@ Heute habe ich mich damit beschäftigt, welche Arbeitspakete ich schreiben möch
 
 
 
+## Zussamenfassung
+
 Heute habe ich mir ein YouTube-Video von Bro Code angesehen. Es ging um das Thema HTML, und ich habe es mir angeschaut, um einen Überblick zu bekommen, wo was ist und wie es funktioniert. Ein paar Befehle konnte ich dabei auch lernen. Ich habe auch Visual Studio Code heruntergeladen mit der Erweiterung Live Preview. Ich habe mit meiner Website angefangen und möchte eine Website erstellen, auf der man den Bitcoin-Live-Chart sehen kann. Ich habe jedoch festgestellt, dass ich dafür JavaScript benötige. Beim nächsten Mal werde ich versuchen, das umzusetzen. (89)
+
+
+## 24.5.2024
+
+- [x] Meine Bitcoin Website fertig programmieren.
+- [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
+- [x] Die Aufgaben 3a und 4 in Franz lösen
+- [x] Mathe lernen für den Test am Montag (Additionsverfahren, Einsetzungsverfahren und Gleichsetzungsverfahren).
+
+
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
+| --------------- | ------------------- | --------------- | ---------------- | -------- |
+|   1 | `Link sehen` | `öffnen`| `sehe meine Website` | x | 
+|   2 |  `Franz Aufgabe 3a und 4 sehen` | `lösen`  | `überprüfen` | x |
+|   3 |  `Mathe Aufgabe sehen` | `lösen`  | `überprüfen` | x |
+
+## Zussamenfassung
+
+Heute habe ich meinen HTML Code in einem PHP Code erweitert und in auf der Website W3school gestartet. Mein Website funktioniert jetzt und ich habe es mir auch so vorgestellt gehabt. Ich habe noch an Franz und Mathe gearbeitet weil ich Aufträge 
+vonm Franz hatte wegen dem Distanzunterricht und am Montag habe ich den Mathe Test. (56)
+
+
+## 31.5.2024
+
+- [ ] Mich informieren was ich für eine neue Website machen kann.
+- [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
+- [ ] Franz Voci lernen
+- [ ] Für Biologie lernen --> Bakterien.
+
+
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
+| --------------- | ------------------- | --------------- | ---------------- | -------- |
+|   1 | `C# Aufträge lösen` | `Lösung sehen`| `Lösung analysieren` | x | 
+|   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` | x |
+|   3 |  `Website Thema finden` | `sehen`  | `umsetzen` | x |
+
