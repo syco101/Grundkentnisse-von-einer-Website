@@ -63,17 +63,17 @@ Heute habe ich meinen HTML Code in einem PHP Code erweitert und in auf der Websi
 vonm Franz hatte wegen dem Distanzunterricht und am Montag habe ich den Mathe Test. (56)
 
 
-## 31.5.2024
+## 7.6.2024
 
-- [ ] Mich informieren was ich für eine neue Website machen kann.
+- [ ] Website im Design verschönern.
 - [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
-- [ ] Franz Voci lernen
-- [ ] Für Biologie lernen --> Bakterien.
+- [ ] Franz Voci lernen.
+- [ ] Für Deutsch lernen. Nebensätze bestimmen.
 
 
 | Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
 | --------------- | ------------------- | --------------- | ---------------- | -------- |
-|   1 | `C# Aufträge lösen` | `Lösung sehen`| `Lösung analysieren` | x | 
-|   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` | x |
-|   3 |  `Website Thema finden` | `sehen`  | `umsetzen` | x |
+|   1 | `C# Aufträge lösen` | `Lösung sehen`| `Lösung analysieren` |  | 
+|   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` |  |
+|   3 |  `Text ansehen` | `überlegen`  | `nebensatz markieren` |  |
 
