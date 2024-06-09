@@ -65,15 +65,35 @@ vonm Franz hatte wegen dem Distanzunterricht und am Montag habe ich den Mathe Te
 
 ## 7.6.2024
 
-- [ ] Website im Design verschönern.
+- [x] Neue Website programmieren mit dem Thema Ethereum (Anfang).
 - [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
-- [ ] Franz Voci lernen.
-- [ ] Für Deutsch lernen. Nebensätze bestimmen.
+- [x] Franz Voci lernen.
+- [x] Für Deutsch lernen. Nebensätze bestimmen.
+
+
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
+| --------------- | ------------------- | --------------- | ---------------- | -------- |
+|   1 | `C# Aufträge lösen` | `Lösung sehen`| `Lösung analysieren` |  | 
+|   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` | x |
+|   3 |  `Text ansehen` | `überlegen`  | `nebensatz markieren` | x |
+
+
+Heute habe ich mich mit einer neuen Website Idee beschäftigt und zwar mit einer Website mit dem Thema Ethereum und sie sollte vom Design zu Eth passen. Meine letzte Website hatte das Thema Bitcoin und deswegen witme ich meiner neuen Website dem Thema Ethereum. Ich habe noch Deutsch Haupt und Nebensätze gelernt und Franz Voci. (55)
+
+## 14.6.2024
+
+- [ ] Die Website Grösstenteils fertig machen.
+- [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
+- [ ] Englisch Voci üben.
+- [ ] Mehr CSS Videos schauen und den Code besser verstehen.
 
 
 | Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
 | --------------- | ------------------- | --------------- | ---------------- | -------- |
 |   1 | `C# Aufträge lösen` | `Lösung sehen`| `Lösung analysieren` |  | 
 |   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` |  |
-|   3 |  `Text ansehen` | `überlegen`  | `nebensatz markieren` |  |
+
+
+
+
 
