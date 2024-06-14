@@ -82,16 +82,18 @@ Heute habe ich mich mit einer neuen Website Idee beschäftigt und zwar mit einer
 
 ## 14.6.2024
 
-- [ ] Die Website Grösstenteils fertig machen.
+- [x] Das Problem mit dem Icon lösen.
 - [ ] C# Aufgaben online lösen und es auf richtigheit prüfen
-- [ ] Englisch Voci üben.
-- [ ] Mehr CSS Videos schauen und den Code besser verstehen.
+- [x] Englisch Voci üben.
+- [x] Mehr CSS Videos schauen und den Code besser verstehen.
 
 
 | Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then) |	Erfüllt? |
 | --------------- | ------------------- | --------------- | ---------------- | -------- |
 |   1 | `C# Aufträge lösen` | `Lösung sehen`| `Lösung analysieren` |  | 
-|   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` |  |
+|   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` | x |
+
+
 
 
 
