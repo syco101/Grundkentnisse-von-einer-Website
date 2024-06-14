@@ -1,0 +1,43 @@
+Ethereum
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Ethereum</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+       
+        <img class="logo" src="ethereum-removebg-preview.png" alt="Ethereum Logo">
+        <h1 class="h1" >Ethereum</h1>
+    </div>
+</body>
+</html>
+
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 30px; 
+    height: 30px;
+    margin-left: 50px; 
+}
+
+
+body{
+background-color: rgb(26,26,26) ;
+}
+
+
+
+h1 {
+    color: rgb(69, 69, 155);
+    min-height: 5px;
+    margin: 0;
+}
