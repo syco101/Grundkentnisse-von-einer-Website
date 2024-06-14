@@ -94,6 +94,19 @@ Heute habe ich mich mit einer neuen Website Idee beschäftigt und zwar mit einer
 |   2 |  `Wort auf Deutsch sehen` | `umdrehen`  | `überprüfen` | x |
 
 
+## Zussamenfassung
+
+Heute habe ich an meiner Website weitergearbeitet und das Problem mit dem Icon gelöst was lange gebraucht hat. Ich habe mich noch mehr über CSS informiert auf W3schools und verschiedene Lernvideos geschaut. ich habe noch ein wenig Englisch Voci gelernt, weil ich nächste Woche eine Prüfung darüber habe und ich eine gute Note brauche. (54)
+
+
+## 21.6.2024
+
+- [ ] Das Problem mit dem Icon lösen.
+- [ ] An der Website vom Modulo 293 weiterarbeiten --> PC Komponenten
+- [ ] Mathe Aufgaben lösen.
+- [ ] Für die Motorradprüfung lernen.
+
+
 
 
 
