@@ -109,9 +109,13 @@ Heute habe ich an meiner Website weitergearbeitet und das Problem mit dem Icon g
 
  ## Zussamenfassung
 
-Heute habe ich mein PAP für das Modul 122 fetig gemacht und es in meiner Dokumentation hineingefügt. ich habe dazu noch einen Text geschrieben und die Startseite gestaltet
- 
+Heute habe ich mein PAP für das Modul 122 fetig gemacht und es in meiner Dokumentation hineingefügt. ich habe dazu noch einen Text geschrieben und die Startseite gestaltet. Ich habe leider meinen Code für das Modul 293 zuhause auf meinem PC vergessen darum konnte ich nicht dafür weiter coden. Ich habe noch ein paar Mathe Aufgaben gelöst(57)
 
+
+## 28.6.2024
+
+- [ ] Meine Website von Ethereum weiter programmiern --> grundstruktur haben.
+- [ ] Meine Website von 122 ausbauen
 
 
 
