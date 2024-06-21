@@ -101,10 +101,16 @@ Heute habe ich an meiner Website weitergearbeitet und das Problem mit dem Icon g
 
 ## 21.6.2024
 
-- [ ] Das PAP vom Modul fertig machen.
+- [x] Das PAP vom Modul fertig machen.
 - [ ] An der Website vom Modulo 293 weiterarbeiten --> PC Komponenten
-- [ ] Mathe Aufgaben lösen.
-- [ ] Mit dem Portfolio von 122 beginnen.
+- [x] Mathe Aufgaben lösen.
+- [x] Mit dem Portfolio von 122 beginnen.
+
+
+ ## Zussamenfassung
+
+Heute habe ich mein PAP für das Modul 122 fetig gemacht und es in meiner Dokumentation hineingefügt. ich habe dazu noch einen Text geschrieben und die Startseite gestaltet
+ 
 
 
 
