@@ -104,7 +104,7 @@ Heute habe ich an meiner Website weitergearbeitet und das Problem mit dem Icon g
 - [ ] Das PAP vom Modul fertig machen.
 - [ ] An der Website vom Modulo 293 weiterarbeiten --> PC Komponenten
 - [ ] Mathe Aufgaben lösen.
-- [ ] Für die Motorradprüfung lernen.
+- [ ] Mit dem Portfolio von 122 beginnen.
 
 
 
