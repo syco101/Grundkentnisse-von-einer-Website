@@ -1,0 +1,133 @@
+body {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 10px;
+    color: #fff;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav ul li a:hover {
+    background-color: #575757;
+    border-radius: 5px;
+}
+
+.Titel {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.content {
+    flex: 1;
+}
+
+.footer {
+    background: #333;
+    color: #efefef;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.footer div {
+    text-align: center;
+    flex: 1;
+}
+
+.footer .colum-2 {
+    flex-grow: 2;
+}
+
+.footer div h3 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.footer .colum-1 a {
+    color: #efefef;
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.footer .colum-1 a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+/*text*/
+.footer form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer form input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 50%;
+    border-radius: 15em;
+
+}
+
+/*button von info updates*/
+.footer form button {
+    padding: 12px;
+    width: 21%;
+    background: transparent;
+    border: 2px solid;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 15em;
+}
+
+.footer form button:hover {
+    background-color: #444;
+}
+
+.socialaccounts{
+
+  margin-top: 30px;
+
+
+}
+
+.socialaccounts i{
+
+    font-size: 22px;
+    margin: 10px;
+    cursor: pointer;
+
+}
