@@ -114,7 +114,7 @@ Heute habe ich mein PAP für das Modul 122 fetig gemacht und es in meiner Dokume
 
 ## 28.6.2024
 
-- [ ] Meine Website von Ethereum weiter programmiern --> grundstruktur haben.
+- [ ] Mehr über HTML und CSS lernen und Aufgaben online dazu lösen.
 - [ ] Meine Website von 122 ausbauen
 
 
