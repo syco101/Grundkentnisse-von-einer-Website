@@ -121,6 +121,11 @@ Heute habe ich mein PAP für das Modul 122 fetig gemacht und es in meiner Dokume
 
 Heute habe ich ein paar HTML übungs Aufgaben auf W3schools gelöst und ich finde bei dennen kann man gut üben aber auch repetieren. Ich habe weiter an meine Website gearbeitet. Da habe ich aber nicht so viel programmiert sondern eher repetiert usw
 
+## Reflexion von der Lernperiode
+
+In dieser Lernperiode habe ich viele  neue Sachen und fähigkeiten gelernt, vorallem die Sprache HTML und CSS. Natürlich kann ich sie noch nicht perfekt und muss manchmal nach Hilfe suchen aber ich finde ich habe trozdem gute Leistungen vollbracht wie zb meine Website vom Modul 293. Ich habe im Modul 122 noch Powershell gehabt und dies habe ich das zum ersten mal gesehen. Das Projekt gefiel mir sehr weil man viel dokumentieren musste und man einen genauen Plan hatte. Ich habe in dieser Lernperiode noch eine fertige und eine unfertige Website über Bitcoin und Ethereum programmiert. Dies tat ich weil ich mich sehr für kryptos interessiere und ich eine grosse Zukunft in Kryptos sehe.
+
+
 
 
 
