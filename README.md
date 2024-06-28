@@ -123,7 +123,15 @@ Heute habe ich ein paar HTML übungs Aufgaben auf W3schools gelöst und ich find
 
 ## Reflexion von der Lernperiode
 
-In dieser Lernperiode habe ich viele  neue Sachen und fähigkeiten gelernt, vorallem die Sprache HTML und CSS. Natürlich kann ich sie noch nicht perfekt und muss manchmal nach Hilfe suchen aber ich finde ich habe trozdem gute Leistungen vollbracht wie zb meine Website vom Modul 293. Ich habe im Modul 122 noch Powershell gehabt und dies habe ich das zum ersten mal gesehen. Das Projekt gefiel mir sehr weil man viel dokumentieren musste und man einen genauen Plan hatte. Ich habe in dieser Lernperiode noch eine fertige und eine unfertige Website über Bitcoin und Ethereum programmiert. Dies tat ich weil ich mich sehr für kryptos interessiere und ich eine grosse Zukunft in Kryptos sehe.
+In dieser Lernperiode habe ich viele  neue Sachen und fähigkeiten gelernt, vorallem die Sprache HTML und CSS. Natürlich kann ich sie noch nicht perfekt und muss manchmal nach Hilfe suchen aber ich finde ich habe trozdem gute Leistungen vollbracht wie zb meine Website vom Modul 293. Ich habe im Modul 122 noch Powershell gehabt und dies habe ich das zum ersten mal gesehen. Das Projekt gefiel mir sehr weil man viel dokumentieren musste und man einen genauen Plan hatte. Ich habe in dieser Lernperiode noch eine fertige und eine unfertige Website über Bitcoin und Ethereum programmiert. Dies tat ich weil ich mich sehr für kryptos interessiere und ich eine grosse Zukunft in Kryptos sehe.(114)
+
+
+## Reflexion vom ganzen Jahr
+
+In diesem Jahr habe ich verschiedene Sprachen durch die Module gelernt, darunter C#, HTML und CSS. Ich habe verschiedene Websites programmiert, Powershell-Code geschrieben und SQL-Codes erstellt. Zudem habe ich gelernt, wie ich mich gut auf Informatikprüfungen vorbereiten und die diversen Aufgaben so aufteilen kann, dass ich sie alle lösen kann. Die Erstellung der Dokumentationen hat mir immer Spaß gemacht, weil ich einen roten Faden hatte und mich gut durcharbeiten konnte.
+
+Nächstes Jahr möchte ich im LA mehr programmieren und mehr für mein GitHub-Profil machen, vor allem mehr Codes und viele kleine Websites. Mir hat im LA gefallen, dass wir alleine arbeiten konnten und dass wir selbstständig arbeiten konnten. Ich würde am liebsten das LA genauso weiterführen. Ich finde es so gut, wie es jetzt ist. (126)
+
 
 
 
