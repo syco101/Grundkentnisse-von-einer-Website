@@ -114,10 +114,12 @@ Heute habe ich mein PAP für das Modul 122 fetig gemacht und es in meiner Dokume
 
 ## 28.6.2024
 
-- [ ] Mehr über HTML und CSS lernen und Aufgaben online dazu lösen.
-- [ ] Meine Website von 122 ausbauen
+- [x] Mehr über HTML und CSS lernen und Aufgaben online dazu lösen.
+- [x] Meine Website von 122 ausbauen
 
+## Zussamenfassung
 
+Heute habe ich ein paar HTML übungs Aufgaben auf W3schools gelöst und ich finde bei dennen kann man gut üben aber auch repetieren. Ich habe weiter an meine Website gearbeitet. Da habe ich aber nicht so viel programmiert sondern eher repetiert usw
 
 
 
